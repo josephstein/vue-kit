@@ -1,12 +1,23 @@
 {
   "name": "@josephstein/vue-kit",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "license": "MIT",
+  "repository": "josephstein/vue-kit",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "build-bundle": "vue-cli-service build --target lib --name vue-kit ./index.js",
     "test:unit": "vue-cli-service test:unit"
   },
+  "keywords": [
+    "vue-kit",
+    "vuejs",
+    "npm",
+    "package",
+    "ui",
+    "gui",
+    "bootstrap"
+  ],
   "files": [
     "dist/vue-kit.common.js",
     "src/components/*",
