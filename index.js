@@ -10,5 +10,6 @@ const VueComponents = {
 
 export * from '@/mixins'
 export * from '@/utilities'
+export * from '@/controllers'
 
 export default VueComponents
