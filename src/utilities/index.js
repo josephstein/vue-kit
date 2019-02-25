@@ -6,7 +6,7 @@ import isValidEmail from './is-valid-email'
 import isValidPhone from './is-valid-phone'
 import isValidZip from './is-valid-zip'
 
-module.exports = {
+export {
   assert,
   compare,
   dateFormatter,
