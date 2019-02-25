@@ -1,5 +1,5 @@
 import snackbar from './snackbar'
 
-export {
+module.exports = {
   snackbar
 }
