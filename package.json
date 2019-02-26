@@ -1,8 +1,9 @@
 {
   "name": "@josephstein/vue-kit",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "license": "MIT",
   "repository": "josephstein/vue-kit",
+  "main": "./dist/vue-kit.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
