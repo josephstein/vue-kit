@@ -1,6 +1,6 @@
 {
   "name": "@josephstein/vue-kit",
-  "version": "0.1.6",
+  "version": "0.1.12",
   "license": "MIT",
   "repository": "josephstein/vue-kit",
   "main": "./dist/vue-kit.common.js",

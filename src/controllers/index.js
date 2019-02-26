@@ -1,5 +1,5 @@
-import snackbar from './snackbar'
+import Snackbar from './snackbar'
 
 export {
-  snackbar
+  Snackbar
 }
